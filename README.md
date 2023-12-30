@@ -6,7 +6,7 @@
 
 [![Freelancer Preview](https://assets.startbootstrap.com/img/screenshots/themes/freelancer.png)](https://startbootstrap.github.io/startbootstrap-freelancer/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-freelancer/)**
+**[View Live Preview](https://amru2706.github.io/portofolio-amru/)**https://github.com/amru2706/portofolio-amru
 
 ## Status
 
