@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Freelancer Preview](https://assets.startbootstrap.com/img/screenshots/themes/freelancer.png)]([https://startbootstrap.github.io/startbootstrap-freelancer](https://amru2706.github.io/portofolio-amru)/)
+[![Freelancer Preview](https://assets.amru2706.com/img/utama.png)]([https://startbootstrap.github.io/startbootstrap-freelancer](https://amru2706.github.io/portofolio-amru)/)
 
 **[View Live Preview](https://amru2706.github.io/portofolio-amru/)
 
